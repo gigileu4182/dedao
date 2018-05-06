@@ -37,3 +37,17 @@
 - scqa，每个部分，都是一个ABCD。
 
 # 第三章、纵向
+
+- 自上而下，回答（对方的）疑问做分解
+  - 站在对方的角度去想问题，最好找到共同点。
+  - 5W2H。
+    - what?
+    - Why?
+    - When?
+    - where?
+    - who? / whom?
+    - How
+    - How much , to which degree?
+  - 2W 1H 为核心
+  - 每个点都要是结论
+- 自下而上做归类
